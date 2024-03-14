@@ -1,8 +1,8 @@
 title: Process Mining 4 Sustainability Workshop
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/pm4s-ws" # the subpath of your site, e.g. /blog
-url: "https://rwth-pads.github.io" # the base hostname & protocol for your site
+baseurl: /pm4s-ws # the subpath of your site, e.g. /blog
+url: https://rwth-pads.github.io # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
