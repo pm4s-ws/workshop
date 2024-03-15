@@ -1,0 +1,39 @@
+- title: István Koren
+  name: Koren
+  subtitle: RWTH Aachen University, Germany
+  img: koren.jpg
+  thumbnail: koren.jpg
+  alt: Picture of István Koren
+  topic: Topic
+  description: Dr. István Koren is a postdoc researcher at the Chair of Process and Data Science and Deputy Coordinator of the Infrastructure area within the National Research Cluster “Internet of Produc- tion” at RWTH Aachen University. In his research, he studies the co-evolution of engineering, production, and usage in complex software- and data-intensive systems.
+  href: https://www.pads.rwth-aachen.de/cms/PADS/Der-Lehrstuhl/Team/Wissenschaftliche-Mitarbeiter/~mzkqs/Istvan-Koren/
+
+- title: Janina Bauer
+  name: Bauer
+  subtitle: Celonis, Germany
+  img: bauer.jpg
+  thumbnail: bauer.jpg
+  alt: Picture of Janina Bauer
+  topic: Topic
+  description: Janina Bauer, M.Sc, is the Global Head of Sustainability at Celonis responsible for driving the company’s sustainability programme. Apart from driving the sustainability of Celonis itself, she and her team work on new products leveraging process mining to increase the sustainability of customer’s business processes.
+  href: https://www.celonis.com
+
+- title: Nina Graves
+  name: Graves
+  subtitle: RWTH Aachen University, Germany
+  img: graves.jpg
+  thumbnail: graves.jpg
+  alt: Picture of Nina Graves
+  topic: Topic
+  description: Nina Graves, M.Sc. is a PhD candidate at the Chair of Process and Data Science at RWTH Aachen University. Using her background in industrial engineering, her research focusses on process mining for sustainable material flows.
+  href: https://ninagraves.com/
+
+- title: TBD
+  name: tbd
+  subtitle: TBD
+  img: TBD.jpg
+  thumbnail: tbd.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: TBD
+  href: https://
