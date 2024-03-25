@@ -1,8 +1,8 @@
 title: Process Mining 4 Sustainability Workshop
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
-baseurl: /pm4s-ws # the subpath of your site, e.g. /blog
-url: https://rwth-pads.github.io # the base hostname & protocol for your site
+  Join us at PM4S 2024, the first international workshop on Process Mining for Sustainability, co-located with ICPM 2024 at DTU, Copenhagen.
+baseurl: /workshop # the subpath of your site, e.g. /blog
+url: https://pm4s-ws.github.io # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
