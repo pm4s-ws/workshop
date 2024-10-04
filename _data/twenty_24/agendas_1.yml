@@ -1,5 +1,28 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 9:15 PM
+  info: "<br><b>Welcome and Introduction</b><br><br>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:15 AM - 9:40 PM<br><br>
+  info: "Dominik Schäfer, Finn Klessascheck, Timotheus Kampik and Luise Pufahl<br><b>Can We Leverage Process Data from ERP Systems for Sustainability Analyses?</b><br><br>"
+  download: downloads/Schäfer_ERP_Data_Sustainability_Analyses.pdf
+
+- time: 9:40 AM - 10:05 PM<br><br>
+  info: "Muskan Muskan, Felix Mannhardt and Boudewijn van Dongen<br><b>Extending Genetic Process Discovery to Reveal Unfairness in Processes</b><br><br>"
+  download: downloads/Muskan_Genetic_Discovery_Revealing_Unfairness.pdf
+
+- time: 10:05 AM - 10:30 PM<br><br>
+  info: "Andreas Fritsch<br><b>Process Sustainability Patterns for Evaluating and Developing Sustainable Process Technologies</b><br><br>"
+  download: downloads/Fritsch_Process_Sustainability_Patterns.pdf
+
+- time: 10:30 AM - 11:00 PM
+  info: "<br><b>Coffee Break</b><br><br>"
+
+- time: 11:00 AM - 11:25 PM<br><br>
+  info: "Ioana Costache, Oktay Turetken, Banu Aysolmaz and Karolin Winter<br><b>Process Mining Guidelines for Greenhouse Gas Emission Management in Production Processes</b><br><br>"
+  download: downloads/Costache_Guidelines_GHG_Emission_Management.pdf
+
+- time: 11:25 AM - 11:50 PM<br><br>
+  info: "Cielo González Moyano, Finn Klessascheck, Saimir Bala, Stephan A. Fahrenkrog-Petersen and Jan Mendling<br><b>Towards Nudging in BPM: A Human-Centric Approach for Sustainable Business Processes</b><br><br>"
+  download: downloads/González_Moyano_Nudging_in_BPM.pdf
+
+- time: 11:50 AM - 12:30 PM
+  info: "<br><b>Discussion, Roadmap, and Next Steps</b><br><br>"
