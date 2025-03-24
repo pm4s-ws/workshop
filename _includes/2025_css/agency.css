@@ -1,0 +1,3 @@
+header {
+  background-image: url('{{ site.baseurl }}/css/2025_style/img/header-bg.jpg');
+}

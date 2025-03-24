@@ -1,26 +1,39 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Nina Graves
+  name: Graves
+  subtitle: RWTH Aachen University, Germany
+  img: graves.jpg
+  thumbnail: graves.jpg
+  alt: Picture of Nina Graves
   topic: Topic
-  description: More Info
+  description: Nina Graves, M.Sc., is a PhD candidate at the Chair of Process and Data Science at RWTH Aachen University. Her research, which uses her background in industrial engineering, focuses on process mining for sustainable logistics.
+  href: https://ninagraves.com/
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Martin Rubio
+  name: Rubio
+  subtitle: Universidad de la República, Uruguay
+  img: rubio.jpg
+  thumbnail: rubio.jpg
+  alt: Picture of Martin Rubio
   topic: Topic
-  description: More Info
+  description: Martín Rubio is a PhD student at the PEDECIBA academic program from Universidad de la República and Ministry of Education and Culture, Uruguay, and holds an MSc in Information Systems. He is a lecturer at the Instituto de Computación, Universidad de la República, Uruguay, and has been working in the software industry for over 10 years. His research interests include process mining and sustainability, object-centric event data and data integration.
+  href: 
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: István Koren
+  name: Koren
+  subtitle: RWTH Aachen University, Germany
+  img: koren.jpg
+  thumbnail: koren.jpg
+  alt: Picture of István Koren
   topic: Topic
-  description: More Info
+  description: Dr. István Koren is a postdoc researcher at the Chair of Process and Data Science and Deputy Coordinator of the Infrastructure area within the National Research Cluster “Internet of Production” at RWTH Aachen University. In his research, he studies the co-evolution of engineering, production, and usage in complex software- and data-intensive systems.
+  href: https://www.pads.rwth-aachen.de/cms/PADS/Der-Lehrstuhl/Team/Wissenschaftliche-Mitarbeiter/~mzkqs/Istvan-Koren/
+
+- title: Andreas Fritsch
+  name: Fritsch
+  subtitle: Karlsruhe Institute of Technology, Germany
+  img: fritsch.jpg
+  thumbnail: fritsch.jpg
+  alt: Picture of Andreas Fritsch
+  topic: Topic
+  description: Dr. Andreas Fritsch is a researcher at the Institute of Applied Informatics and Formal Description Methods at Karlsruhe Institute of Technology. He is an expert in process and data technologies and their application for Sustainable Development. His ongoing research efforts focus on bridging the gap between sustainability analysis methods and process science.
+  href: 

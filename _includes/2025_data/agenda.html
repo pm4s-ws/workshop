@@ -1,0 +1,40 @@
+<!-- Agenda Section -->
+<section id="program">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Program</h2>
+              <h3 class="section-subheading text-muted"></h3>
+          </div>
+      </div>
+      <div class="row">
+        <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+      <!-- <h1>{{ page.title }}</h1> -->
+       Each presentation will have 20 minutes time for the talk + 5 minutes for questions.
+
+        <table class="agenda">
+            <!-- <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Talk</center></th>  
+                </tr>
+            </thead> -->
+
+            {% for agenda in site.data.twenty_24.agendas_1 %}
+                <tr>
+                    <td style="padding-right:10px;">{{ agenda.time }}</td>
+                    <td style="padding-right:10px;">{{ agenda.info }}</td>
+                    <td>{% if agenda.download != nil %}<a href="{{ agenda.download }}">Open Paper</a>{% endif %}</td>
+                </tr> 
+            {% endfor %}
+        </table>
+
+    </div>
+      </div>
+  </div>
+</section>
