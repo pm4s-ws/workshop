@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "/css/2024_style/img/icon-large.png"
+logo: "/css/2025_style/img/header-bg.jpg"
 
 social: 
   name: Your Facebook Page
@@ -29,6 +29,8 @@ social:
     url: https://www.facebook.com
   - title: twitter
     url: https://twitter.com
+  - title: linkedin
+    url: https://www.linkedin.com
 
 # Build settings
 markdown: kramdown
