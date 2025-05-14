@@ -1,6 +1,7 @@
 title: Process Mining 4 Sustainability Workshop
 description: > # this means to ignore newlines until "baseurl:"
   Join us at PM4S 2025, the second international workshop on Process Mining for Sustainability, co-located with ICPM 2025 at UdelaR, Montevideo.
+image: "/css/2025_style/img/header-bg.jpg"
 baseurl: /workshop # the subpath of your site, e.g. /blog
 url: https://pm4s-ws.github.io # the base hostname & protocol for your site
 # Build settings
@@ -9,7 +10,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "/css/2024_style/img/icon-large.png"
+logo: "/css/2025_style/img/header-bg.jpg"
 
 social: 
   name: Your Facebook Page
