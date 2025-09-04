@@ -20,13 +20,13 @@
 
 - title: István Koren
   name: Koren
-  subtitle: RWTH Aachen University, Germany
+  subtitle: ELTE University Budapest, Hungary & RWTH Aachen University, Germany
   img: koren.jpg
   thumbnail: koren.jpg
   alt: Picture of István Koren
   topic: Topic
-  description: Dr. István Koren is a postdoc researcher at the Chair of Process and Data Science and Deputy Coordinator of the Infrastructure area within the National Research Cluster “Internet of Production” at RWTH Aachen University. In his research, he studies the co-evolution of engineering, production, and usage in complex software- and data-intensive systems.
-  href: https://www.pads.rwth-aachen.de/cms/PADS/Der-Lehrstuhl/Team/Wissenschaftliche-Mitarbeiter/~mzkqs/Istvan-Koren/
+  description: Dr. István Koren is the head of the department of data science and engineering at ELTE University Budapest and Deputy Coordinator of the Infrastructure area within the National Research Cluster “Internet of Production” at RWTH Aachen University. In his research, he studies the co-evolution of engineering, production, and usage in complex software- and data-intensive systems.
+  href: https://istvank.eu
 
 - title: Andreas Fritsch
   name: Fritsch
